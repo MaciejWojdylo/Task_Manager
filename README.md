@@ -43,7 +43,7 @@ Aby uruchomić projekt, musisz mieć zainstalowane:
 ### Klonowanie repozytorium / Clone the repository
 
 ```bash
-git clone https://github.com/TwojeKonto/task-manager.git
+git clone https://github.com/MaciejWojdylo/task-manager.git
 cd task-manager
 ```
 
