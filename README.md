@@ -8,14 +8,12 @@ The `Task Manager` project is a web application that allows task management. It 
 
 ## Spis Treści / Table of Contents
 
-- [Opis projektu](#opis-projektu)
-- [Technologie](#technologie)
-- [Instalacja](#instalacja)
-- [Uruchamianie aplikacji](#uruchamianie-aplikacji)
-- [Endpointy API](#endpointy-api)
-- [Dokumentacja API](#dokumentacja-api)
-- [Przyszłe zmiany](#przyszłe-zmiany)
-- [Autorzy](#autorzy)
+1. **Opis projektu / Project Description**
+2. **Technologie / Technologies**
+3. **Instalacja / Installation**
+4. **Endpointy API / API Endpoints**
+5. **Dokumentacja API / API Documentation**
+6. **Przyszłe zmiany / Future Changes**
 
 ## Technologie / Technologies
 
